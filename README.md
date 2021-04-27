@@ -30,6 +30,6 @@
   </a>
   <br />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=hamono&show_icons=true&theme=dark">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=hamono&show_icons=true&theme=dracula">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark&hide=GLSL,CSS" height="195px">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dracula&hide=GLSL,CSS" height="195px">
